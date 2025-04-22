@@ -1,0 +1,270 @@
+{
+  "dokument_titel": "Bewertungsbogen Kompetenzanalyse - Stärken-Schwächen Profil",
+  "tn_id": null,
+  "name": null,
+  "datum_erstellung": null,
+  "massnahme": null,
+  "geburtsdatum": null,
+  "erstellt_von": null,
+  "schulische_basiskompetenzen": {
+    "titel": "I. Schulische Basiskompetenzen",
+    "kompetenzen": [
+      {
+        "name": "Rechtschreibung",
+        "bewertung": null
+      },
+      {
+        "name": "Textverständnis",
+        "bewertung": null
+      },
+      {
+        "name": "Englisch",
+        "bewertung": null
+      },
+      {
+        "name": "Math. Grundkenntnisse",
+        "bewertung": null
+      },
+      {
+        "name": "Allgemeinwissen/Wirt.",
+        "bewertung": null
+      },
+      {
+        "name": "Digitale Kompetenz",
+        "bewertung": null
+      }
+    ],
+    "anmerkungen": null
+  },
+  "selbst_und_fremdeinschaetzung": {
+    "titel": "II. Selbst- und Fremdeinschätzung",
+    "kategorien": [
+      {
+        "kategorie_name": "Methodische Kompetenz",
+        "kompetenzen": [
+          {
+            "name": "Selbstständigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Arbeitsplanung",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Kreativität",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Problemlösefähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Konzentrationsfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Auffassungsgabe/Lernkompetenz",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          }
+        ]
+      },
+      {
+        "kategorie_name": "Personale Kompetenz",
+        "kompetenzen": [
+          {
+            "name": "Zuverlässigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Durchhalteverm./Frusttoleranz",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Verantwortungsbewusstsein",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Leistungsbereitschaft",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Motivationsfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Sorgfalt",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          }
+        ]
+      },
+      {
+        "kategorie_name": "Sozialverhalten",
+        "kompetenzen": [
+          {
+            "name": "Teamfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Kommunikationsfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Respektvoller Umgang",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Konfliktfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          },
+          {
+            "name": "Kritikfähigkeit",
+            "selbsteinschaetzung": null,
+            "fremdeinschaetzung": null
+          }
+        ]
+      }
+    ]
+  },
+  "berufsorientierung_berufswahl": {
+    "titel": "III. Berufsorientierung/Berufswahl",
+    "berufswahlkompetenzen": [
+      {
+        "kompetenz": "Interessen",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "kompetenz": "Vorkenntnisse",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      }
+    ],
+    "anmerkungen": null
+  },
+  "erprobung_berufsbereiche": {
+    "titel": "IV. Erprobung Berufsbereiche",
+    "kompetenzen": [
+      {
+        "name": "Kommunikationsfähigkeit",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Arbeitsmotivation/Leistung",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Konzentration/Ausdauer",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Arbeitsanweisungen/Auff.",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Geschicklichkeit",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Arbeit/Qualität",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Arbeitstempo",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Ordnung",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Pünktlichkeit/Zuverläss.",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Zusammenarbeit/Teamf.",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Verantwortungsbewusstsein",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      },
+      {
+        "name": "Sorgfalt/Exaktheit",
+        "Handel": null,
+        "Lager/Logistik": null,
+        "Metall": null,
+        "Elektro": null
+      }
+    ]
+  },
+  "anmerkungen_und_ressourcen": {
+    "titel": "V. Anmerkungen und Ressourcen",
+    "aspekte": [
+      {
+        "aspekt": "Anmerkungen Berufsorientierung",
+        "beschreibung": null
+      },
+      {
+        "aspekt": "Ressourcen des TN",
+        "beschreibung": null
+      },
+      {
+        "aspekt": "Unterstützungsbedarf",
+        "beschreibung": null
+      }
+    ]
+  }
+}
